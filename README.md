@@ -1,4 +1,4 @@
-# azr-tf-module-template
+# azr-tf-module-subnet
 
 [Terraform](https://www.terraform.io) Module to create **[NAME]** in Azure
 
